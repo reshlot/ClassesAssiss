@@ -1,0 +1,8 @@
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\bin\Debug\Classes.exe.config
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\bin\Debug\Classes.exe
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\bin\Debug\Classes.pdb
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\obj\Debug\Classes.exe
+D:\Simplilearn\Assissted Projects\Secction-10\Classes\Classes\obj\Debug\Classes.pdb
